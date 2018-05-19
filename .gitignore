@@ -1,0 +1,13 @@
+# node
+node_modules
+yarn-error.log
+
+# osx
+.DS_Store
+
+# webpack
+public/dist
+
+#env
+.env.test
+.env.development

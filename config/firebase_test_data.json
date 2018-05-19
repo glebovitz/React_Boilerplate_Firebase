@@ -1,0 +1,6 @@
+{
+  "description": "foo",
+  "amount": "1234",
+  "createdAt": "4567",
+  "note": "This is a note"
+}
